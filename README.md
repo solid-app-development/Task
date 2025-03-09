@@ -35,6 +35,20 @@ https://github.com/NoelDeMartin/solid-focus/tree/aerogel/cypress/fixtures
     wf:tracker ind:this.
 ```
 
+```turtle
+<#this> a wf:Tracker;
+    dc:author c:me;
+    dc:created "2020-07-21T14:00:20Z"^^xsd:dateTime;
+    dct:title "SolidOS Solid Operating System roadmap";
+    wf:assigneeClass foaf:Person;
+    wf:defaultView <#States>;
+    wf:description "After the https://www.w3.org/DesignIssues/diagrams/solid/2018-soild-work.svg meeting, the Solid project and SolidOS roadmaps were split. For the Solid roadmap visit: https://solidproject.solidcommunity.net/Roadmap/";
+    wf:initialState <#Someday>;
+    wf:issueCategory <#Classification>;
+    wf:issueClass <#States>;
+    wf:stateStore <https://solidos.solidcommunity.net/public/Roadmap/Tasks/state.ttl>.
+```
+
 https://solidos.solidcommunity.net/public/Roadmap/Tasks/state.ttl
 
 ## Simple JSON
