@@ -64,3 +64,7 @@ https://solidos.solidcommunity.net/public/Roadmap/Tasks/state.ttl
 ```
 
 https://nosdav.net/f0af306a4f3e60f17d88210cbce6f1e7df6abaa79b501624f8be6c6a5d0981ac/todos.json
+
+## PDS Interop
+
+- https://pdsinterop.org/conventions/tasks/
