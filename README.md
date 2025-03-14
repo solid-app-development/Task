@@ -1,6 +1,18 @@
 # Task
 Task Apps
 
+## Default Locations
+
+### Directory
+
+- /public/todo/
+
+### Filename
+
+- todo(.ext)
+
+# Apps
+
 ## Solid Focus
 
 ```turtle
